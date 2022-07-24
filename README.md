@@ -15,6 +15,6 @@ After getting all resources from client and agreeing to the design, I started wi
 
 ## Optimizations
 
-Updte new photos, change some colors in main.css and create a new "Meet Our Barbers" section in the menu.
+Will update new photos, change some colors in main.css and create a new "Meet Our Barbers" section in the menu.
 
 
