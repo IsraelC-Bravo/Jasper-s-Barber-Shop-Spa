@@ -4,7 +4,7 @@ A fully responsive, original, and modern website for an on trend full-service ba
 
 **Link:** https://jaspers.netlify.app
 
-![alt tag](https://i.ibb.co/Yf3Dv0Y/Jaspers.png)
+![alt tag](https://i.imgur.com/xcmqQYP.png)
 
 ## How It's Made:
 
